@@ -1,0 +1,22 @@
+<svg width="138.360840" height="138.500061" viewBox="0 0 138.361 138.5" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_25_67_dd" x="0.000000" y="0.000000" width="138.360840" height="138.500061" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_25_67_dd)">
+		<path id="Vector" d="M71.89 0C70.39 0 69.18 1.21 69.18 2.71L69.18 62.46C69.18 63.96 70.39 65.18 71.89 65.18L131.64 65.18C133.14 65.18 134.36 63.96 134.36 62.46C134.32 27.98 106.37 0.03 71.89 0Z" fill="#FFC107" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M101.2 115.11L63.74 66.96L63.74 8.14C63.74 6.64 62.53 5.43 61.03 5.43C29.58 5.43 4 33.45 4 67.89C4.03 102.37 31.98 130.32 66.46 130.36C78.98 131.33 91.36 127.19 100.77 118.87C101.91 117.94 102.1 116.27 101.2 115.11Z" fill="#2196F3" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M131.64 70.61L77.32 70.61C75.82 70.61 74.61 71.82 74.61 73.32C74.61 73.94 74.82 74.55 75.21 75.03L110.52 118.74C110.99 119.32 111.69 119.69 112.44 119.74L112.63 119.74C113.32 119.74 113.98 119.48 114.48 119.01C127.13 107.18 134.33 90.64 134.36 73.32C134.36 71.82 133.14 70.61 131.64 70.61Z" fill="#4CAF50" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

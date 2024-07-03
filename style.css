@@ -28,7 +28,7 @@ height: 48px;
 /* navbar with responsive  */
 .root {
     width: 100%;
-    max-width: 1400px;
+    max-width: 1160px;
     margin: auto;
     min-height: 100vh;
     border: 1px solid black;
@@ -97,16 +97,21 @@ height: 48px;
     }
   }
 
-  
-  /* banner */
-  .banner {
-    width: 100%;
-    height: auto;
-    margin-top: 40px;
+/*  */
+.one{
+    width: 216px;
+    height: 312px;
+    border: 1px solid gray;
+    border-radius:20px;
 }
-/* Styles for large devices */
-@media (min-width: 992px) {
-    .banner {
-        width: 1400px;
-    }
+.two{
+    width: 216px; height:190px; background-color: #FFFFF5; border:1px solid gray;
+   border-radius: 20px;
+}
+.three{
+    width: 216px; height: 162px;
+    background-color:#FBFBFB ;
+    border-radius: 20px;
+    border:1px solid gray;
+    margin-top: 27px;
 }
