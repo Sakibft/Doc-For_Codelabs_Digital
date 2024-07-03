@@ -115,3 +115,14 @@ height: 48px;
     border:1px solid gray;
     margin-top: 27px;
 }
+.testimonial{
+  width: 371px;
+  height: 241px;
+  border:1px solid gray;
+  border-radius: 20px;
+  background:#FFFFF5;
+}
+.testimonial_container{
+  display: flex ;
+  gap: 20px;
+}
