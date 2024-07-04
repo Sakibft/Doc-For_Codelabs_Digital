@@ -135,7 +135,7 @@ height: 48px;
   width: 1156px;
   height: 928px;
   border-radius: 20px;
-  margin-top: 80px;
+  margin-top: 140px;
   background: #FFFFF5;
   border: 1px solid rebeccapurple;
 
@@ -160,4 +160,15 @@ height: 48px;
   height: 394px;
   border-radius: 20px;
   position: relative;
+}
+
+.getHelp{
+  margin-top: 80px;
+  position: relative;
+}
+.chaseImage4{
+  background-image: url(./images/Rectangle\ 24.png);
+  width: 524px;
+  height: 394px;
+  border-radius: 20px;
 }
