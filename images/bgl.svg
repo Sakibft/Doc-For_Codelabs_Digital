@@ -1,0 +1,92 @@
+<svg width="1728.000000" height="696.000000" viewBox="0 0 1728 696" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_27_215_dd" x="0.000000" y="0.000000" width="1728.000000" height="696.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip27_215">
+			<rect id="Frame" width="1720.000000" height="688.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_27_215_dd)">
+		<rect id="Frame" width="1720.000000" height="688.000000" transform="translate(4.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip27_215)">
+			<g style="mix-blend-mode:color-burn">
+				<path id="Vector" d="M1601.12 114.64L1724 114.64L1724 229.32L1601.12 229.32L1601.12 114.64Z" fill="#C1D5DE" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1601.12 229.32L1724 229.32L1724 344L1601.12 344L1601.12 229.32Z" fill="#C7DBE5" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1601.12 458.64L1724 458.64L1724 573.32L1601.12 573.32L1601.12 458.64Z" fill="#E2F5FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1478.28 0L1601.12 0L1601.12 114.64L1478.28 114.64L1478.28 0Z" fill="#F1FAFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1478.28 114.64L1601.12 114.64L1601.12 229.32L1478.28 229.32L1478.28 114.64Z" fill="#DEF4FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1478.28 344L1601.12 344L1601.12 458.64L1478.28 458.64L1478.28 344Z" fill="#C7DBE5" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1478.28 458.64L1601.12 458.64L1601.12 573.32L1478.28 573.32L1478.28 458.64Z" fill="#DEF4FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1478.28 573.32L1601.12 573.32L1601.12 688L1478.28 688L1478.28 573.32Z" fill="#E8F7FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1355.44 0L1478.28 0L1478.28 114.64L1355.44 114.64L1355.44 0Z" fill="#F6FCFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1355.44 114.64L1478.28 114.64L1478.28 229.32L1355.44 229.32L1355.44 114.64Z" fill="#E3F6FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1355.44 229.32L1478.28 229.32L1478.28 344L1355.44 344L1355.44 229.32Z" fill="#D7ECF7" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1355.44 344L1478.28 344L1478.28 458.64L1355.44 458.64L1355.44 344Z" fill="#E3F6FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1355.44 458.64L1478.28 458.64L1478.28 573.32L1355.44 573.32L1355.44 458.64Z" fill="#EAF8FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1355.44 573.32L1478.28 573.32L1478.28 688L1355.44 688L1355.44 573.32Z" fill="#EDF9FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1232.56 114.64L1355.44 114.64L1355.44 229.32L1232.56 229.32L1232.56 114.64Z" fill="#E1F5FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1232.56 229.32L1355.44 229.32L1355.44 344L1232.56 344L1232.56 229.32Z" fill="#B9CCD5" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1232.56 344L1355.44 344L1355.44 458.64L1232.56 458.64L1232.56 344Z" fill="#D9EFFA" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1232.56 573.32L1355.44 573.32L1355.44 688L1232.56 688L1232.56 573.32Z" fill="#E8F7FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1109.72 0L1232.56 0L1232.56 114.64L1109.72 114.64L1109.72 0Z" fill="#F5FCFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1109.72 114.64L1232.56 114.64L1232.56 229.32L1109.72 229.32L1109.72 114.64Z" fill="#EAF8FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1109.72 344L1232.56 344L1232.56 458.64L1109.72 458.64L1109.72 344Z" fill="#C4D7E1" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M1109.72 458.64L1232.56 458.64L1232.56 573.32L1109.72 573.32L1109.72 458.64Z" fill="#DEF4FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M986.88 0L1109.72 0L1109.72 114.64L986.88 114.64L986.88 0Z" fill="#F6FCFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M986.88 114.64L1109.72 114.64L1109.72 229.32L986.88 229.32L986.88 114.64Z" fill="#E9F8FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M986.88 229.32L1109.72 229.32L1109.72 344L986.88 344L986.88 229.32Z" fill="#CFE4EE" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M986.88 344L1109.72 344L1109.72 458.64L986.88 458.64L986.88 344Z" fill="#C7DBE5" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M986.88 458.64L1109.72 458.64L1109.72 573.32L986.88 573.32L986.88 458.64Z" fill="#D7ECF7" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M986.88 573.32L1109.72 573.32L1109.72 688L986.88 688L986.88 573.32Z" fill="#E5F6FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M864 114.64L986.88 114.64L986.88 229.32L864 229.32L864 114.64Z" fill="#E5F6FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M864 229.32L986.88 229.32L986.88 344L864 344L864 229.32Z" fill="#C7DBE5" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M864 458.64L986.88 458.64L986.88 573.32L864 573.32L864 458.64Z" fill="#C9DDE7" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M864 573.32L986.88 573.32L986.88 688L864 688L864 573.32Z" fill="#E1F5FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M741.16 0L864 0L864 114.64L741.16 114.64L741.16 0Z" fill="#F1FAFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M741.16 114.64L864 114.64L864 229.32L741.16 229.32L741.16 114.64Z" fill="#E1F5FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M741.16 229.32L864 229.32L864 344L741.16 344L741.16 229.32Z" fill="#C1D5DE" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M741.16 344L864 344L864 458.64L741.16 458.64L741.16 344Z" fill="#DDF3FD" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M741.16 458.64L864 458.64L864 573.32L741.16 573.32L741.16 458.64Z" fill="#C1D5DE" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M618.28 114.64L741.16 114.64L741.16 229.32L618.28 229.32L618.28 114.64Z" fill="#D9EFFA" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M618.28 344L741.16 344L741.16 458.64L618.28 458.64L618.28 344Z" fill="#CFE4EE" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M618.28 458.64L741.16 458.64L741.16 573.32L618.28 573.32L618.28 458.64Z" fill="#BCCED8" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M618.28 573.32L741.16 573.32L741.16 688L618.28 688L618.28 573.32Z" fill="#BFD2DB" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M495.44 0L618.28 0L618.28 114.64L495.44 114.64L495.44 0Z" fill="#ECF9FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M495.44 114.64L618.28 114.64L618.28 229.32L495.44 229.32L495.44 114.64Z" fill="#E1F5FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M495.44 229.32L618.28 229.32L618.28 344L495.44 344L495.44 229.32Z" fill="#DEF4FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M495.44 344L618.28 344L618.28 458.64L495.44 458.64L495.44 344Z" fill="#D9EFFA" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M495.44 573.32L618.28 573.32L618.28 688L495.44 688L495.44 573.32Z" fill="#A9BAC3" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M372.56 0L495.4 0L495.4 114.64L372.56 114.64L372.56 0Z" fill="#F0FAFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M372.56 114.64L495.4 114.64L495.4 229.32L372.56 229.32L372.56 114.64Z" fill="#E8F7FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M372.56 229.32L495.4 229.32L495.4 344L372.56 344L372.56 229.32Z" fill="#E3F6FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M372.56 344L495.4 344L495.4 458.64L372.56 458.64L372.56 344Z" fill="#E5F6FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M372.56 458.64L495.4 458.64L495.4 573.32L372.56 573.32L372.56 458.64Z" fill="#DDF3FD" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M249.72 114.64L372.6 114.64L372.6 229.32L249.72 229.32L249.72 114.64Z" fill="#E1F5FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M249.72 229.32L372.6 229.32L372.6 344L249.72 344L249.72 229.32Z" fill="#CCE0EA" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M249.72 344L372.6 344L372.6 458.64L249.72 458.64L249.72 344Z" fill="#B7C9D2" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M249.72 458.64L372.6 458.64L372.6 573.32L249.72 573.32L249.72 458.64Z" fill="#CFE4EE" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M249.72 573.32L372.6 573.32L372.6 688L249.72 688L249.72 573.32Z" fill="#C4D7E1" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M126.88 0L249.72 0L249.72 114.64L126.88 114.64L126.88 0Z" fill="#E8F7FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M126.88 114.64L249.72 114.64L249.72 229.32L126.88 229.32L126.88 114.64Z" fill="#DDF3FD" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M126.88 229.32L249.72 229.32L249.72 344L126.88 344L126.88 229.32Z" fill="#E2F5FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M126.88 458.64L249.72 458.64L249.72 573.32L126.88 573.32L126.88 458.64Z" fill="#D9EFFA" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M126.88 573.32L249.72 573.32L249.72 688L126.88 688L126.88 573.32Z" fill="#E8F7FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M4 0L126.88 0L126.88 114.64L4 114.64L4 0Z" fill="#D9EFFA" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M4 229.32L126.88 229.32L126.88 344L4 344L4 229.32Z" fill="#D9EFFA" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M4 344L126.88 344L126.88 458.64L4 458.64L4 344Z" fill="#E5F6FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Vector" d="M4 458.64L126.88 458.64L126.88 573.32L4 573.32L4 458.64Z" fill="#E8F7FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+			</g>
+		</g>
+	</g>
+</svg>
