@@ -1,0 +1,25 @@
+<svg width="35.168457" height="35.168457" viewBox="0 0 35.1685 35.1685" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_61_227_dd" x="0.000000" y="0.000000" width="35.168457" height="35.168457" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_61_227_dd)">
+		<mask id="mask61_228" mask-type="alpha" maskUnits="userSpaceOnUse" x="4.000000" y="0.000000" width="27.168457" height="27.168457">
+			<path id="svgIDa" d="M4 0L31.16 0L31.16 27.16L4 27.16L4 0Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</mask>
+		<g mask="url(#mask61_228)">
+			<path id="Vector" d="M30.6 7.36C30.44 6.81 30.14 6.32 29.73 5.92C29.31 5.52 28.78 5.23 28.22 5.08C26.09 4.52 17.57 4.52 17.57 4.52C14.02 4.48 10.47 4.66 6.94 5.06C6.38 5.21 5.85 5.51 5.43 5.92C5.01 6.32 4.71 6.82 4.55 7.36C4.17 9.41 3.98 11.49 4 13.58C3.98 15.66 4.17 17.75 4.55 19.8C4.7 20.34 5.01 20.84 5.43 21.24C5.85 21.64 6.37 21.92 6.94 22.08C9.1 22.64 17.57 22.64 17.57 22.64C21.13 22.68 24.68 22.5 28.22 22.1C28.78 21.96 29.31 21.67 29.73 21.26C30.14 20.87 30.44 20.38 30.6 19.83C30.99 17.78 31.18 15.69 31.16 13.61C31.19 11.51 31 9.42 30.6 7.36L30.6 7.36ZM14.87 17.46L14.87 9.71L21.95 13.58L14.87 17.46Z" fill="#FFFFF5" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>

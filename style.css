@@ -30,9 +30,7 @@ height: 48px;
     width: 100%;
     max-width: 1160px;
     margin: auto;
-    min-height: 100vh;
-    border: 1px solid black;
-  }
+    }
   
   .navbar {
     display: flex;
@@ -125,4 +123,11 @@ height: 48px;
 .testimonial_container{
   display: flex ;
   gap: 20px;
+}
+.footer{
+  width: 1492px;
+  height: 442px;
+ margin: auto;
+  background: #020043;
+  margin-top: 80px;
 }
