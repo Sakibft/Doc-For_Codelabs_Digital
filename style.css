@@ -137,8 +137,7 @@ height: 48px;
   border-radius: 20px;
   margin-top: 140px;
   background: #FFFFF5;
-  border: 1px solid rebeccapurple;
-
+ 
 }
 .chaseImage1{
   background-image: url(./images/Rectangle\ 27-2.png);
@@ -171,4 +170,14 @@ height: 48px;
   width: 524px;
   height: 394px;
   border-radius: 20px;
+}
+ 
+.getImage {
+  background: linear-gradient(to right, #020043ff, #0200434d ), url(./images/Rectangle\ 32.png);
+  width: 1161px;
+  height: 477px;
+  margin-top: 80px;
+  border-radius: 20px;
+  position: relative;
+ 
 }
