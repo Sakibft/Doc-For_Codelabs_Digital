@@ -131,3 +131,33 @@ height: 48px;
   background: #020043;
   margin-top: 80px;
 }
+.empowering{
+  width: 1156px;
+  height: 928px;
+  border-radius: 20px;
+  margin-top: 80px;
+  background: #FFFFF5;
+  border: 1px solid rebeccapurple;
+
+}
+.chaseImage1{
+  background-image: url(./images/Rectangle\ 27-2.png);
+  width: 524px;
+  height: 394px;
+  border-radius: 20px;
+  position: relative;
+}
+.chaseImage2{
+  background-image: url(./images/Rectangle\ 27-1.png);
+  width: 524px;
+  height: 394px;
+  border-radius: 20px;
+  position: relative;
+}
+.chaseImage3{
+  background-image: url(./images/Rectangle\ 27.png);
+  width: 524px;
+  height: 394px;
+  border-radius: 20px;
+  position: relative;
+}
